@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SalvadorGarcia</string>
+    <string name="welcome">Bienvenido !</string>
+    <string name="pregunta">¿Cual es tu e-mail?</string>
+    <string name="alerta">Introduce el e-mail correctamente.</string>
+    <string name="alertaAcep">Aceptar</string>
+    <string name="gracias">Gracias !</string>
+    <string name="ocultar">Ocultar</string>
+    <string name="frase">Hemos recibido tu e-mail:</string>
+</resources>

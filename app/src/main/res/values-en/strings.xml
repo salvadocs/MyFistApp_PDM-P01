@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SalvadorGarcia</string>
+    <string name="welcome">Welcome !</string>
+    <string name="pregunta">What is your e-mail?</string>
+    <string name="alerta">Enter the email correctly.</string>
+    <string name="alertaAcep">Accept</string>
+    <string name="gracias">Thanks !</string>
+    <string name="ocultar">Hide</string>
+    <string name="frase">Your e-mail has been received:</string>
+</resources>
